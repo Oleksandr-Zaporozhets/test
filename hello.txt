@@ -9,4 +9,5 @@ delete integer from here;
 2;
 wow;
 master;
-test string;
+test string;-
+this is new test string
