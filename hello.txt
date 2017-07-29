@@ -11,3 +11,4 @@ wow;
 master;
 test string;-
 this is new test string
+some new method;
