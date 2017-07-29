@@ -1,9 +1,9 @@
 print;
 return 0;
-6
-46
-73
-28
-2
-wow
-master
+6;
+46;
+73;
+28;
+2;
+wow;
+master;
