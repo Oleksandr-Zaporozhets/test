@@ -11,7 +11,7 @@ delete integer from here;
 wow;;
 master;;
 test string;;
-this is new test string
+
 some new method;
 print (hello my dear friend)
 print (glad to see you);
