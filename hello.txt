@@ -7,4 +7,5 @@ return 0;
 2
 wow
 master
-print( hello my dear friend);
+print( hello my dea) friend);
+print(another hello);
