@@ -9,3 +9,4 @@ print(another hello);
 2;
 wow;
 master;
+test string;
