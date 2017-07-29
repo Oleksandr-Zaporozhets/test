@@ -13,3 +13,4 @@ master;
 test string;-
 this is new test string
 some new method;
+print (hello my dear friend)
