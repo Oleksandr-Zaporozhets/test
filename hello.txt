@@ -1,11 +1,12 @@
 print;
 return 0;
 print( hello my dea) friend);
-print(another hello);
-6 + 3;
-delete integer from here;
-73;
-28;
+print(another hello)
+6 + 3
+new masater string
+delete integer from here
+73
+28
 2;
 wow;
 master;
