@@ -2,16 +2,16 @@ print;
 return 0;
 print( hello my dea) friend);
 print(another hello)
-6 + 3
-new masater string
-delete integer from here
-73
-28
-2;
-wow;
-master;
-test string;-
-this is new test string
+6 + 3;
+new masater string;
+delete integer from here;
+73;
+28;
+2;;
+wow;;
+master;;werwrqwwqe
+test string;;
+
 some new method;
 print (hello my dear friend)
 print (glad to see you);
