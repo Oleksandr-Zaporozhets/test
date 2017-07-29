@@ -9,7 +9,7 @@ delete integer from here;
 28;
 2;;
 wow;;
-master;;
+master;;werwrqwwqe
 test string;;
 
 some new method;
