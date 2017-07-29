@@ -1,5 +1,7 @@
 print;
 return 0;
+print( hello my dea) friend);
+print(another hello);
 6;
 46;
 73;
